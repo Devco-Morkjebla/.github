@@ -16,9 +16,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=devco" />
   </a>
   <a href="https://github.com/ArvidWedtstein/Website-API">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=website-api" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=colorpicker" />
   </a>
   <a href="https://github.com/ArvidWedtstein/DiscordbotV13">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=discordbotv13" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=unzippy" />
   </a>
 </p>
