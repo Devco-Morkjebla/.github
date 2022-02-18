@@ -10,3 +10,15 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+<p align="center">
+  <a href="https://github.com/ArvidWedtstein/Nuxt-Website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=devco" />
+  </a>
+  <a href="https://github.com/ArvidWedtstein/Website-API">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=website-api" />
+  </a>
+  <a href="https://github.com/ArvidWedtstein/DiscordbotV13">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=discordbotv13" />
+  </a>
+</p>
