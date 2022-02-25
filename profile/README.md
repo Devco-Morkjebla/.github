@@ -10,7 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devco-Morkjebla&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 <h1 aling="center">Current Projects:</h1>
 <table>
   <tr>
