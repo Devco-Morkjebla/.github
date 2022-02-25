@@ -13,10 +13,13 @@
 <h1>Scoreboard:</h1>
 <p>Arvid</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <p>Lars Erik</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lartrax&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <p>Miglius</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migliusmockus&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <p>Aleksander</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alVaage&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
