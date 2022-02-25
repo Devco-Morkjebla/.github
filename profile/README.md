@@ -10,23 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<h1>Scoreboard:</h1>
-<div style="display: flex; flex-direction: row;">
-  <div>
-  <p>Arvid</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true" />
-    <br>
-    <p>Lars Erik</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Lartrax&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true" />
-  </div>
-  <div>
-  <p>Miglius</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=migliusmockus&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true" />
-  <br>
-  <p>Aleksander</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alVaage&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true" />
-  </div>
-</div>
+| Scoreboard:                                                                                                                                                       |                                                                                                                                                                  |   |   |   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| Arvid                                                                                                                                                             | Miglius                                                                                                                                                          |   |   |   |
+| <img src="https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true" /> | <img src="https://github-readme-stats.vercel.app/api?username=migliusmockus&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true" /> |   |   |   |
+| Lars Erik                                                                                                                                                         | Aleksander                                                                                                                                                       |   |   |   |
+| <img src="https://github-readme-stats.vercel.app/api?username=Lartrax&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true" />        | <img src="https://github-readme-stats.vercel.app/api?username=alVaage&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true" />       |   |   |   |
 <h1 aling="center">Current Projects:</h1>
 <table>
   <tr>
