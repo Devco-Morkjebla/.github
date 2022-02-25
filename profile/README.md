@@ -10,6 +10,16 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+<h1>Scoreboard:</h1>
+<p>Arvid</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>Lars Erik</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lartrax&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>Miglius</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migliusmockus&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>Aleksander</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alVaage&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <h1 aling="center">Current Projects:</h1>
 <table>
   <tr>
