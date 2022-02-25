@@ -48,3 +48,9 @@
   </tr>
 </table>
 
+<style>
+.flexy {
+  display: flex;
+  flex-direction: row;
+  }
+</style>
