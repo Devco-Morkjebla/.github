@@ -12,7 +12,7 @@
 -->
 <h1>Scoreboard:</h1>
 <p>Arvid</p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)
 <br>
 <p>Lars Erik</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lartrax&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true)
