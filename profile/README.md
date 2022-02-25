@@ -51,6 +51,6 @@
 <style>
 .flexy {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   }
 </style>
