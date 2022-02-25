@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <h1>Scoreboard:</h1>
-<div>
+<div class="flexy">
   <div>
   <p>Arvid</p>
   <img src="https://github-readme-stats.vercel.app/api?username=ArvidWedtstein&hide=stars,prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true" />
