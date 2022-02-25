@@ -1,4 +1,4 @@
-## DevCo stuff ( ఠ ͟ʖ ఠ)
+## Devco stuff ( ఠ ͟ʖ ఠ)
 
 <!--
 
