@@ -30,5 +30,5 @@
     </th>
   </tr>
 </table>
-<img src="https://arvidgithubembed.herokuapp.com/card?languages=php,mysql,nuxtjs">
+
 
