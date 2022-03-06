@@ -15,7 +15,7 @@
   <tr>
     <th>
       <a href="https://github.com/ArvidWedtstein/Nuxt-Website">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=devco" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=github-embed-generator" />
       </a>
     </th>
     <th>
