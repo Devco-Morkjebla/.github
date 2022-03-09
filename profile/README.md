@@ -14,17 +14,17 @@
 <table>
   <tr>
     <th>
-      <a href="https://github.com/ArvidWedtstein/Nuxt-Website">
+      <a href="https://github.com/ArvidWedtstein/github-embed-generator">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=github-embed-generator" />
       </a>
     </th>
     <th>
       <a href="https://github.com/ArvidWedtstein/Website-API">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=colorpicker" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=chrome-extension-" />
       </a>
     </th>
     <th>
-      <a href="https://github.com/ArvidWedtstein/DiscordbotV13">
+      <a href="https://github.com/devco-morkjebla/unzippy">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=unzippy" />
       </a>
     </th>
