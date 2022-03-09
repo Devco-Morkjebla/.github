@@ -20,7 +20,7 @@
     </th>
     <th>
       <a href="https://github.com/ArvidWedtstein/Website-API">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=chrome-extension-" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=chrome_extension-" />
       </a>
     </th>
     <th>
