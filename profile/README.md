@@ -4,7 +4,7 @@
 
 ![TopLangs](https://arvidgithubembed.herokuapp.com/languageCard?organization=devco-morkjebla&title=Devcos%20Most%20Used%20Languages&backgroundcolor=0D1117&bordercolor=0D1117&textcolor=ffffff&titlecolor=ffffff&langs_count=9)
 
-![t](https://arvidgithubembed.herokuapp.com/project?user=devco-morkjebla&repo=kurs-klokke&theme=retro)
+![test](https://arvidgithubembed.herokuapp.com/project?user=devco-morkjebla&repo=kurs-klokke&theme=rgb)
 
 | Scoreboard:                                                                                                                                                       |                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
