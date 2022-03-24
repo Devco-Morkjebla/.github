@@ -17,11 +17,13 @@
       <a href="https://github.com/ArvidWedtstein/github-embed-generator">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=github-embed-generator" />
       </a>
+      <img align="center" src="https://arvidgithubembed.herokuapp.com/project?user=devco-morkjebla&repo=kurs-klokke&theme=retro">
     </th>
     <th>
       <a href="https://github.com/ArvidWedtstein/Website-API">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=chrome_extension-" />
       </a>
+      <img align="center" src="https://arvidgithubembed.herokuapp.com/project?user=devco-morkjebla&repo=kurs-klokke&theme=retro">
     </th>
     <th>
       <a href="https://github.com/devco-morkjebla/unzippy">
