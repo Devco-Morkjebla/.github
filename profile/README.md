@@ -29,8 +29,9 @@
       <a href="https://github.com/devco-morkjebla/unzippy">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=unzippy" />
       </a>
-      
+      <a>
       <img align="center" src="https://arvidgithubembed.herokuapp.com/project?user=devco-morkjebla&repo=kurs-klokke&theme=retro">
+      </a>
     </th>
   </tr>
 </table>
