@@ -2,7 +2,7 @@
 
 ![y](https://arvidgithubembed.herokuapp.com/skills?languages=php,nuxt,tailwind,typescript,go,wordpress,javascript,css3,html5,mongodb&backgroundcolor=333333&title=Devco%20jobber%20med&titlecolor=ffffff&textcolor=000000)
 
-![TopLangs](https://arvidgithubembed.herokuapp.com/languageCard?organization=devco-morkjebla&title=Devcos%20Most%20Used%20Languages&backgroundcolor=0D1117&bordercolor=0D1117&textcolor=ffffff&titlecolor=ffffff&langs_count=5)
+![TopLangs](https://arvidgithubembed.herokuapp.com/languageCard?organization=devco-morkjebla&title=Devcos%20Most%20Used%20Languages&backgroundcolor=0D1117&bordercolor=0D1117&textcolor=ffffff&titlecolor=ffffff&langs_count=10)
 
 | Scoreboard:                                                                                                                                                       |                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
