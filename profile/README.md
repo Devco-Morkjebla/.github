@@ -15,7 +15,7 @@
   <tr>
     <th>
       <a href="https://github.com/ArvidWedtstein/github-embed-generator">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=github-embed-generator" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devco-morkjebla&repo=appex-tournaments" />
       </a>
     </th>
     <th>
